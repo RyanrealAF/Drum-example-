@@ -1,0 +1,7 @@
+{
+  "name": "DrumVision MIDI Visualizer",
+  "description": "An AI-powered drum stem analyzer that converts audio to visual MIDI patterns. Uses Gemini 2.5 Flash Audio to detect drum hits and animate glowing visualizations in real-time.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
